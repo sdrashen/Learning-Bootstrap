@@ -3,14 +3,19 @@ body {
 }
 
 .navbar {
-    background-color: #7df1de;
+    background-color: #a9eafa;
 }
 
 .about-us {
-    background-color: royalblue;
+    background-color: rgb(141, 214, 243);
     color: #fff;
 }
 
 .margin {
+    padding-top: 10px;
     padding-bottom: 50px;
+}
+
+.parterns {
+    background-color: rgb(163, 219, 241);
 }
