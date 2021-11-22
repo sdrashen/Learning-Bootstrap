@@ -1,0 +1,16 @@
+body {
+    font: 20px Arial, sans-serif;
+}
+
+.navbar {
+    background-color: #7df1de;
+}
+
+.about-us {
+    background-color: royalblue;
+    color: #fff;
+}
+
+.margin {
+    padding-bottom: 50px;
+}
