@@ -1,14 +1,19 @@
+:root {
+    --peach: #f7e0d9;
+    --powder: #c7eee5;
+}
+
 body {
     font: 20px Arial, sans-serif;
+    color: #ffffff;
 }
 
 .navbar {
-    background-color: #a9eafa;
+    background-color: var(--peach);
 }
 
 .about-us {
-    background-color: rgb(141, 214, 243);
-    color: #fff;
+    background-color: var(--powder);
 }
 
 .margin {
@@ -17,11 +22,13 @@ body {
 }
 
 .parterns {
-    background-color: rgb(163, 219, 241);
-    color: #fff;
+    background-color: var(--peach);
+}
+
+.services {
+    background-color: var(--powder);
 }
 
 .bg-footer {
-    background-color: #000;
-    color: #fff;
+    background-color: var(--peach);
 }
